@@ -37,4 +37,4 @@
 7. Add and commit the new documentation files
    - `git add versions/vX.Y.md versions/HDV CHARGE vX.Y Model Documentation.pdf`
    - `git commit -m "[Useful description of changes]"`
-8. Push your changes, wait a minute, then check to make sure the [online version](https://theicct.github.io/EVCHARGE-doc) updated correctly
+8. Push your changes, wait a minute, then check to make sure the [online version](https://theicct.github.io/HDVCHARGE-doc) updated correctly
